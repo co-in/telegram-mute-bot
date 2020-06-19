@@ -15,4 +15,4 @@ php ./console/install.php https://YOUR.SITE.WEB.ROOT/
 
 ------------
 
-**Donate**: Xgzpd6doencq7ihrz9nvDrYEUaRTfDKm2Q
+**DASH Donate**: Xgzpd6doencq7ihrz9nvDrYEUaRTfDKm2Q
