@@ -13,4 +13,6 @@ composer install
 php ./console/install.php https://YOUR.SITE.WEB.ROOT/
 ```
 
+------------
 
+**Donate**: Xgzpd6doencq7ihrz9nvDrYEUaRTfDKm2Q
