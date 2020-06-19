@@ -1,5 +1,5 @@
 {
-  "name": "co_in/mute-bot.loc",
+  "name": "co_in/telegram-mute-bot",
   "minimum-stability": "stable",
   "license": "proprietary",
   "require": {
