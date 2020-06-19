@@ -1,0 +1,3 @@
+config/*_local.php
+.idea
+vendor
